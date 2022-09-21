@@ -1,0 +1,30 @@
+﻿  dllmain.cpp
+E:\gamehax\lostark\LostArkRev\EphL\EphemeralPayload\dllmain.cpp(95,43): warning C4018: '<': signed/unsigned mismatch
+E:\gamehax\lostark\LostArkRev\EphL\EphemeralPayload\dllmain.cpp(210,37): warning C4244: 'initializing': conversion from '__int64' to 'uint32_t', possible loss of data
+E:\gamehax\lostark\LostArkRev\EphL\EphemeralPayload\dllmain.cpp(242,38): warning C4244: 'initializing': conversion from '__int64' to 'uint32_t', possible loss of data
+E:\gamehax\lostark\LostArkRev\EphL\EphemeralPayload\dllmain.cpp(246,35): warning C4018: '<': signed/unsigned mismatch
+E:\gamehax\lostark\LostArkRev\EphL\EphemeralPayload\dllmain.cpp(337,63): warning C4018: '<': signed/unsigned mismatch
+E:\gamehax\lostark\LostArkRev\EphL\EphemeralPayload\dllmain.cpp(355,93): warning C4018: '<': signed/unsigned mismatch
+E:\gamehax\lostark\LostArkRev\EphL\EphemeralPayload\dllmain.cpp(371,93): warning C4018: '<': signed/unsigned mismatch
+E:\gamehax\lostark\LostArkRev\EphL\EphemeralPayload\dllmain.cpp(400,59): warning C4018: '<': signed/unsigned mismatch
+E:\gamehax\lostark\LostArkRev\EphL\EphemeralPayload\dllmain.cpp(436,61): warning C4244: '=': conversion from 'uint64_t' to 'DWORD', possible loss of data
+E:\gamehax\lostark\LostArkRev\EphL\EphemeralPayload\dllmain.cpp(446,47): warning C4018: '<': signed/unsigned mismatch
+E:\gamehax\lostark\LostArkRev\EphL\EphemeralPayload\dllmain.cpp(455,79): warning C4244: 'argument': conversion from 'uint64_t' to 'DWORD', possible loss of data
+E:\gamehax\lostark\LostArkRev\EphL\EphemeralPayload\dllmain.cpp(465,74): warning C4244: 'argument': conversion from 'uint64_t' to 'DWORD', possible loss of data
+E:\gamehax\lostark\LostArkRev\EphL\EphemeralPayload\dllmain.cpp(469,113): warning C4244: '=': conversion from 'uint64_t' to 'DWORD', possible loss of data
+E:\gamehax\lostark\LostArkRev\EphL\EphemeralPayload\dllmain.cpp(474,47): warning C4018: '<': signed/unsigned mismatch
+E:\gamehax\lostark\LostArkRev\EphL\EphemeralPayload\dllmain.cpp(483,55): warning C4244: '=': conversion from 'uint64_t' to 'DWORD', possible loss of data
+E:\gamehax\lostark\LostArkRev\EphL\EphemeralPayload\dllmain.cpp(487,83): warning C4244: '=': conversion from 'uint64_t' to 'DWORD', possible loss of data
+E:\gamehax\lostark\LostArkRev\EphL\EphemeralPayload\dllmain.cpp(490,86): warning C4244: '=': conversion from 'uint64_t' to 'DWORD', possible loss of data
+E:\gamehax\lostark\LostArkRev\EphL\EphemeralPayload\dllmain.cpp(524,79): warning C4244: 'argument': conversion from 'uint64_t' to 'DWORD', possible loss of data
+E:\gamehax\lostark\LostArkRev\EphL\EphemeralPayload\dllmain.cpp(525,74): warning C4244: 'argument': conversion from 'uint64_t' to 'DWORD', possible loss of data
+E:\gamehax\lostark\LostArkRev\EphL\EphemeralPayload\dllmain.cpp(542,73): warning C4244: '=': conversion from 'uint64_t' to 'DWORD', possible loss of data
+E:\gamehax\lostark\LostArkRev\EphL\EphemeralPayload\dllmain.cpp(543,70): warning C4244: '=': conversion from 'uint64_t' to 'DWORD', possible loss of data
+E:\gamehax\lostark\LostArkRev\EphL\EphemeralPayload\dllmain.cpp(343,56): warning C4101: 'read': unreferenced local variable
+     Creating library E:\gamehax\lostark\LostArkRev\EphL\x64\Release\EphemeralPayload.lib and object E:\gamehax\lostark\LostArkRev\EphL\x64\Release\EphemeralPayload.exp
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 14 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+dllmain.obj : warning LNK4254: section '.data' (C0000040) merged into '.text' (60000020) with different attributes
+  EphemeralPayload.vcxproj -> E:\gamehax\lostark\LostArkRev\EphL\x64\Release\EphemeralPayload.dll
