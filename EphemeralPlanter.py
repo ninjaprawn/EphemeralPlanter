@@ -205,7 +205,7 @@ c_addr = custom_part+text_addr_base
 
 # Get code from a DLL, and fix it to be copied into another DLL
 def get_custom_code(start_addr, global_imports, target_func_name="DllMain"):
-    dll = Dll("E:\\gamehax\\lostark\\LostArkRev\\EphL\\x64\\Release\\EphemeralLoader.dll")
+    dll = Dll("EphL\\x64\\Release\\EphemeralLoader.dll")
 
     # Get the start address of the function to copy
     target_func_addr = dll.get_export_va(target_func_name)
